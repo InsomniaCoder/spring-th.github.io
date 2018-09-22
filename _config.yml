@@ -24,6 +24,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spring-th
 github_username:  spring-th
 
+header_pages:
+- guides.md
+- about.md
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -41,3 +45,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:path.html
