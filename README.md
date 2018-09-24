@@ -7,7 +7,7 @@
 
 หัวข้อ | สถานะ | เสร็จ? |
 -----|-------|-------|
-Building a RESTful Web Service | 
+Building a RESTful Web Service | กำลังแปล |
 Scheduling Tasks |
 Consuming a RESTful Web Service |
 Building Java Projects with Gradle |
