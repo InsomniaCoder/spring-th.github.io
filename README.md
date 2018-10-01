@@ -6,8 +6,8 @@
 ## Getting Started Guides
 
 หัวข้อ | สถานะ | เสร็จ? |
------|-------|-------|
-Building a RESTful Web Service | กำลังแปล |
+-----|-------|:-----:|
+Building a RESTful Web Service | เสร็จ | :ballot_box_with_check: |
 Scheduling Tasks |
 Consuming a RESTful Web Service |
 Building Java Projects with Gradle |
